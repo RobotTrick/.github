@@ -2,9 +2,9 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/RobotTrick?style=social)
 [![Website](https://img.shields.io/website?label=robottrick.github.io&url=https%3A%2F%2Frobottrick.github.io)](https://robottrick.github.io/)
-![Twitter Follow](https://img.shields.io/twitter/follow/RobotTrick?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RobotTrick?style=social)](https://twitter.com/intent/follow?screen_name=RobotTrick)
 
-## We mainly focus on developing bots and telegram-related projects!!
+## We mainly focus on developing bots and telegram-related projects.
 
 ### Connect with us:
 
